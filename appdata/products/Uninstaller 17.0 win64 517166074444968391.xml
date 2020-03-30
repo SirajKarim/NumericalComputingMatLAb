@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <altDependencies />
+  <dependsOn />
+  <installerUsage>
+    <usage>install</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType />
+  <platformList>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode />
+  <productName>Uninstaller</productName>
+  <productNumber>-5</productNumber>
+  <productVersion>17.0</productVersion>
+  <releaseDescription>R2017a</releaseDescription>
+  <releaseFamily>R2017a</releaseFamily>
+  <requiredProducts />
+</productData>
+

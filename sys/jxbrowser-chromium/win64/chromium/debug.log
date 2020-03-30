@@ -1,0 +1,36 @@
+[0114/225120:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0114/225122:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0114/225437:WARNING:raw_channel_win.cc(473)] WriteFile: The pipe is being closed. (0xE8)
+[0114/225437:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 1, remote ID 1)
+[0114/225437:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 2, remote ID 2147483648)
+[0313/123436:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0313/123621:WARNING:raw_channel_win.cc(473)] WriteFile: The pipe is being closed. (0xE8)
+[0313/123621:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 1, remote ID 1)
+[0313/123621:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 2, remote ID 2147483648)
+[0412/031955:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0412/031959:INFO:CONSOLE(27)] "3:19:59.047,Creating iframe [remoteWorkerAsyncProducer] for https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html at Fri Apr 12 2019 03:19:59 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/toolbox/matlab/uitools/uidialogs/uisetcolorappjs/release/uisetcolor/uisetcolor.js (27)
+[0412/031959:INFO:CONSOLE(155)] "iframe https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html ready at Fri Apr 12 2019 03:19:59 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/remote/proxy/1.4/iframeProxy.main.js (155)
+[0412/032000:WARNING:raw_channel_win.cc(473)] WriteFile: The pipe is being closed. (0xE8)
+[0412/032000:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 1, remote ID 1)
+[0412/032000:WARNING:channel.cc(549)] Failed to send message to remove remote endpoint (local ID 2, remote ID 2147483648)
+[0412/032000:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0412/032001:INFO:CONSOLE(27)] "3:20:1.255,Creating iframe [remoteWorkerAsyncProducer] for https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html at Fri Apr 12 2019 03:20:01 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/toolbox/matlab/uitools/uidialogs/uisetcolorappjs/release/uisetcolor/uisetcolor.js (27)
+[0412/032001:INFO:CONSOLE(155)] "iframe https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html ready at Fri Apr 12 2019 03:20:01 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/remote/proxy/1.4/iframeProxy.main.js (155)
+[0412/032007:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0412/032008:INFO:CONSOLE(27)] "3:20:8.865,Creating iframe [remoteWorkerAsyncProducer] for https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html at Fri Apr 12 2019 03:20:08 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/toolbox/matlab/uitools/uidialogs/uisetcolorappjs/release/uisetcolor/uisetcolor.js (27)
+[0412/032009:INFO:CONSOLE(155)] "iframe https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html ready at Fri Apr 12 2019 03:20:09 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/remote/proxy/1.4/iframeProxy.main.js (155)
+[0412/032011:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0412/032012:INFO:CONSOLE(27)] "3:20:12.763,Creating iframe [remoteWorkerAsyncProducer] for https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html at Fri Apr 12 2019 03:20:12 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/toolbox/matlab/uitools/uidialogs/uisetcolorappjs/release/uisetcolor/uisetcolor.js (27)
+[0412/032013:INFO:CONSOLE(155)] "iframe https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html ready at Fri Apr 12 2019 03:20:13 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/remote/proxy/1.4/iframeProxy.main.js (155)
+[0412/032218:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0412/032219:INFO:CONSOLE(27)] "3:22:19.764,Creating iframe [remoteWorkerAsyncProducer] for https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html at Fri Apr 12 2019 03:22:19 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/toolbox/matlab/uitools/uidialogs/uisetcolorappjs/release/uisetcolor/uisetcolor.js (27)
+[0412/032220:INFO:CONSOLE(155)] "iframe https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html ready at Fri Apr 12 2019 03:22:20 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/remote/proxy/1.4/iframeProxy.main.js (155)
+[0412/032224:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0412/032225:INFO:CONSOLE(27)] "3:22:25.466,Creating iframe [remoteWorkerAsyncProducer] for https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html at Fri Apr 12 2019 03:22:25 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/toolbox/matlab/uitools/uidialogs/uisetcolorappjs/release/uisetcolor/uisetcolor.js (27)
+[0412/032225:INFO:CONSOLE(155)] "iframe https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html ready at Fri Apr 12 2019 03:22:25 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/remote/proxy/1.4/iframeProxy.main.js (155)
+[0412/032228:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0412/032229:INFO:CONSOLE(27)] "3:22:29.042,Creating iframe [remoteWorkerAsyncProducer] for https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html at Fri Apr 12 2019 03:22:29 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/toolbox/matlab/uitools/uidialogs/uisetcolorappjs/release/uisetcolor/uisetcolor.js (27)
+[0412/032229:INFO:CONSOLE(155)] "iframe https://localhost:31515/remote/proxy/1.4/iframeProxyRelease.html ready at Fri Apr 12 2019 03:22:29 GMT-0700 (Pacific Daylight Time)", source: https://localhost:31515/remote/proxy/1.4/iframeProxy.main.js (155)
+[0422/225903:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0422/225906:ERROR:renderer_main.cc(200)] Running without renderer sandbox
+[0422/230115:INFO:CONSOLE(534)] "Uncaught TypeError: Cannot read property 'options' of undefined", source: file:///D:/Matlab/help/includes/shared/scripts/docscripts.js (534)

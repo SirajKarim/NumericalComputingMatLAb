@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>3p/jre_win64</name>
+      <instrset>0</instrset>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <version>1472767526</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType />
+  <platform>win64</platform>
+  <productBaseCode />
+  <productName>Uninstaller</productName>
+  <productNumber>-5</productNumber>
+  <productVersion>17.0</productVersion>
+  <releaseDescription>R2017a</releaseDescription>
+  <releaseFamily>R2017a</releaseFamily>
+</productAdditionalComps>
+

@@ -1,0 +1,13 @@
+% u=ones(3,3);
+% display(u);
+% f=zeros(3,3);
+% display(f);
+% diagonal=eye(4);
+% disp(diagonal);
+% A=[1 2 3; 9 9 0; 4 5 6 ];
+% disp(A);
+% disp(A');
+% B=[1 2 3; 9 9 0; 4 5 6 ];
+% c=[1 2 3; 9 9 0; 4 5 6 ];
+% disp(B.*c);
+% revrs=pinv(B);
